@@ -19,6 +19,7 @@ A simple, standalone GUI tool to edit alert sounds in your Path of Exile 2 item 
 5. (Optional) Enable **"Bulk Replace All Matching Sounds"**
 6. Click **"Replace Sound File"** and choose your `.wav`, `.ogg`, `.mp3`, or `.wmv` file
 7. The filter will automatically update and save
+8. Once it finishes saving, you will then be asked to select that filter again to show the updated filter with the sounds that were changed. I forgot to fix this so creating V2.0 so it doesn't need to do that moving forward.
 
 ## 🖼 Example Workflow
 
